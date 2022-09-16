@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import MyFormsVue from "./MyForms.vue"
+import MyFormsVue from "../components/MyForms.vue"
 
 export default {
   data() {
